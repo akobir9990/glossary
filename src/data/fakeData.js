@@ -1,6 +1,5 @@
 import muhammad from "../assets/auth/Muhammad.jpg";
 import marina from "../assets/auth/Marina.jpg";
-// import { fData } from "./fd";
 
 export const fakeData = [
   {
@@ -1660,12 +1659,3 @@ export const authInfo = [
     authImage: marina,
   },
 ];
-
-// for (let i = 0; i < fakeData.length; i++) {
-//   fakeData[i] = {
-//     ...fakeData[i],
-//     termEN: fData[i].termEN,
-//     meanEN: fData[i].meanEN,
-//   };
-// }
-// console.log(fakeData);
