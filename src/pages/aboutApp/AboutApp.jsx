@@ -13,11 +13,12 @@ export default function AboutApp() {
       >
         <img src={logo} alt="" className="w-[200px] rounded-md" />
         <div className="text-[20px]">
-          <h4 className="text-[30px] font-black my-2">Glossaries app</h4>
+          <h4 className="text-[30px] font-black my-2">
+            Приложение «Глоссарии»
+          </h4>
           <p>
-            Ushbu dastur shu fanga tegishli bo'lgan fanda ko'p ishlatiladigan
-            terminlarni o'rganish jarayonisni yoki bilgan bilimlarini takrorlash
-            jarayonini ossonlashtirish maqsadida yaratilgan
+            Эта программа создана для облегчения процесса изучения терминов,
+            часто используемых по предмету, или процесса повторения знаний.
           </p>
         </div>
       </motion.div>
