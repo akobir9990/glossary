@@ -10,7 +10,7 @@ import Menu from "@mui/material/Menu";
 import { appbarAuthMenu } from "./const";
 import { NavLink } from "react-router-dom";
 import { HOME_PAGE } from "../../router/const";
-import logoRu from "../../assets/logo-ru.svg";
+import logoRu from "../../assets/glossaries.png";
 
 export default function MenuAppBar() {
   const [auth, setAuth] = React.useState(true);
@@ -40,7 +40,7 @@ export default function MenuAppBar() {
             sx={{ mr: 2 }}
           >
             <NavLink to={HOME_PAGE}>
-              <img className="w-11" src={logoRu} alt="" />
+              <img className="w-11 rounded-md" src={logoRu} alt="" />
             </NavLink>
           </IconButton>
           <Typography

@@ -11,7 +11,7 @@ export default function AuthPage() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.2 }}
       >
-        <h1 className="text-[36px] font-bold text-center my-3">Authors</h1>
+        <h1 className="text-[36px] font-bold text-center my-3">Авторы</h1>
         {authInfo.map((auth) => (
           <AuthItem key={auth.id} auth={auth} />
         ))}

@@ -1,6 +1,6 @@
 {
-  "short_name": "Glossaries",
-  "name": "Glossaries app",
+  "short_name": "CG Glossary",
+  "name": "Corporate Governance Glossary app",
   "icons": [
     {
       "src": "favicon.ico",
@@ -26,6 +26,6 @@
   ],
   "start_url": "./",
   "display": "standalone",
-  "theme_color": "#15697D",
-  "background_color": "#ffffff"
+  "theme_color": "#fff",
+  "background_color": "#001F21"
 }
