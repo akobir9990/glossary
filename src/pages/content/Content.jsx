@@ -1,10 +1,11 @@
 import { Container } from "@mui/material";
 import { useEffect, useState } from "react";
-import { fakeData } from "../../data/fakeData";
+import { fakeData, realData } from "../../data/fakeData";
 import Modal from "react-modal";
 import ModalWindow from "../../components/modal/Modal";
 import { motion } from "framer-motion";
 import backTopIcon from "../../assets/backTop.svg";
+import { useTranslation } from "react-i18next";
 
 const customStyles = {
   content: {
@@ -18,12 +19,14 @@ const customStyles = {
 };
 export default function Content() {
   const [glossariesData, setGlossariesData] = useState(fakeData);
+  const [data, setData] = useState(realData);
   const [modalIsOpen, ModalIsOpen] = useState(false);
   const [element, setElement] = useState({});
   const [backTopIsVisible, setBackTopIsVisible] = useState(false);
+  const { t } = useTranslation();
 
-  function openModal(item) {
-    setElement(item);
+  function openModal(id) {
+    setElement(realData[id - 1]);
     ModalIsOpen(true);
   }
   function closeModal() {
@@ -35,7 +38,6 @@ export default function Content() {
       window.removeEventListener("scroll", toggleVisibility);
     };
   }, []);
-
   const toggleVisibility = () => {
     if (window.pageYOffset > 300) {
       setBackTopIsVisible(true);
@@ -43,7 +45,6 @@ export default function Content() {
       setBackTopIsVisible(false);
     }
   };
-
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
@@ -52,8 +53,9 @@ export default function Content() {
   };
   const handeSearch = (val) => {
     let text = val.toLowerCase();
+
     let filteredData = fakeData.filter((item) =>
-      item.termRU.toLowerCase().includes(text)
+      t(item.term).toLowerCase().includes(text)
     );
     setGlossariesData(filteredData);
   };
@@ -84,7 +86,7 @@ export default function Content() {
             key={item.id}
             className="border border-[teal] py-3 px-4 my-2 rounded cursor-pointer"
           >
-            <h4 onClick={() => openModal(item)}>{item.termRU}</h4>
+            <h4 onClick={() => openModal(item.id)}>{t(item.term)}</h4>
           </div>
         ))}
         <Modal
@@ -106,7 +108,7 @@ export default function Content() {
         className={`
         ${
           backTopIsVisible ? "block" : "hidden"
-        } fixed top-[90vh] right-4 border-[solid] border-[1px] border-[black] px-5 py-2 rounded-lg hover:border-[teal] hover:shadow-[teal] hover:text-[teal]`}
+        } fixed top-[90vh] right-4 border-[solid] border-[1px] border-[black] px-5 py-2 rounded-lg hover:border-[teal] hover:shadow-[teal] hover:bg-[teal] transition-all`}
       >
         <img src={backTopIcon} alt="" />
       </button>

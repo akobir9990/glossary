@@ -1,7 +1,959 @@
 import muhammad from "../assets/auth/Muhammad.jpg";
 import marina from "../assets/auth/Marina.jpg";
 
+export const authInfo = [
+  {
+    id: 1,
+    fullName: "muhamed.fullName",
+    department: "muhamed.department",
+    university: "muhamed.university",
+    position: "muhamed.position",
+    authImage: muhammad,
+  },
+  {
+    id: 2,
+    fullName: "marina.fullName",
+    department: "marina.department",
+    university: "marina.university",
+    position: "marina.position",
+    authImage: marina,
+  },
+];
+
 export const fakeData = [
+  {
+    id: 1,
+    term: "termId1.term",
+    mean: "termId1.mean",
+  },
+  {
+    id: 2,
+    term: "termId2.term",
+    mean: "termId2.mean",
+  },
+  {
+    id: 3,
+    term: "termId3.term",
+    mean: "termId3.mean",
+  },
+  {
+    id: 4,
+    term: "termId4.term",
+    mean: "termId4.mean",
+  },
+  {
+    id: 5,
+    term: "termId5.term",
+    mean: "termId5.mean",
+  },
+  {
+    id: 6,
+    term: "termId6.term",
+    mean: "termId6.mean",
+  },
+  {
+    id: 7,
+    term: "termId7.term",
+    mean: "termId7.mean",
+  },
+  {
+    id: 8,
+    term: "termId8.term",
+    mean: "termId8.mean",
+  },
+  {
+    id: 9,
+    term: "termId9.term",
+    mean: "termId9.mean",
+  },
+  {
+    id: 10,
+    term: "termId10.term",
+    mean: "termId10.mean",
+  },
+  {
+    id: 11,
+    term: "termId11.term",
+    mean: "termId11.mean",
+  },
+  {
+    id: 12,
+    term: "termId12.term",
+    mean: "termId12.mean",
+  },
+  {
+    id: 13,
+    term: "termId13.term",
+    mean: "termId13.mean",
+  },
+  {
+    id: 14,
+    term: "termId14.term",
+    mean: "termId14.mean",
+  },
+  {
+    id: 15,
+    term: "termId15.term",
+    mean: "termId15.mean",
+  },
+  {
+    id: 16,
+    term: "termId16.term",
+    mean: "termId16.mean",
+  },
+  {
+    id: 17,
+    term: "termId17.term",
+    mean: "termId17.mean",
+  },
+  {
+    id: 18,
+    term: "termId18.term",
+    mean: "termId18.mean",
+  },
+  {
+    id: 19,
+    term: "termId19.term",
+    mean: "termId19.mean",
+  },
+  {
+    id: 20,
+    term: "termId20.term",
+    mean: "termId20.mean",
+  },
+  {
+    id: 21,
+    term: "termId21.term",
+    mean: "termId21.mean",
+  },
+  {
+    id: 22,
+    term: "termId22.term",
+    mean: "termId22.mean",
+  },
+  {
+    id: 23,
+    term: "termId23.term",
+    mean: "termId23.mean",
+  },
+  {
+    id: 24,
+    term: "termId24.term",
+    mean: "termId24.mean",
+  },
+  {
+    id: 25,
+    term: "termId25.term",
+    mean: "termId25.mean",
+  },
+  {
+    id: 26,
+    term: "termId26.term",
+    mean: "termId26.mean",
+  },
+  {
+    id: 27,
+    term: "termId27.term",
+    mean: "termId27.mean",
+  },
+  {
+    id: 28,
+    term: "termId28.term",
+    mean: "termId28.mean",
+  },
+  {
+    id: 29,
+    term: "termId29.term",
+    mean: "termId29.mean",
+  },
+  {
+    id: 30,
+    term: "termId30.term",
+    mean: "termId30.mean",
+  },
+  {
+    id: 31,
+    term: "termId31.term",
+    mean: "termId31.mean",
+  },
+  {
+    id: 32,
+    term: "termId32.term",
+    mean: "termId32.mean",
+  },
+  {
+    id: 33,
+    term: "termId33.term",
+    mean: "termId33.mean",
+  },
+  {
+    id: 34,
+    term: "termId34.term",
+    mean: "termId34.mean",
+  },
+  {
+    id: 35,
+    term: "termId35.term",
+    mean: "termId35.mean",
+  },
+  {
+    id: 36,
+    term: "termId36.term",
+    mean: "termId36.mean",
+  },
+  {
+    id: 37,
+    term: "termId37.term",
+    mean: "termId37.mean",
+  },
+  {
+    id: 38,
+    term: "termId38.term",
+    mean: "termId38.mean",
+  },
+  {
+    id: 39,
+    term: "termId39.term",
+    mean: "termId39.mean",
+  },
+  {
+    id: 40,
+    term: "termId40.term",
+    mean: "termId40.mean",
+  },
+  {
+    id: 41,
+    term: "termId41.term",
+    mean: "termId41.mean",
+  },
+  {
+    id: 42,
+    term: "termId42.term",
+    mean: "termId42.mean",
+  },
+  {
+    id: 43,
+    term: "termId43.term",
+    mean: "termId43.mean",
+  },
+  {
+    id: 44,
+    term: "termId44.term",
+    mean: "termId44.mean",
+  },
+  {
+    id: 45,
+    term: "termId45.term",
+    mean: "termId45.mean",
+  },
+  {
+    id: 46,
+    term: "termId46.term",
+    mean: "termId46.mean",
+  },
+  {
+    id: 47,
+    term: "termId47.term",
+    mean: "termId47.mean",
+  },
+  {
+    id: 48,
+    term: "termId48.term",
+    mean: "termId48.mean",
+  },
+  {
+    id: 49,
+    term: "termId49.term",
+    mean: "termId49.mean",
+  },
+  {
+    id: 50,
+    term: "termId50.term",
+    mean: "termId50.mean",
+  },
+  {
+    id: 51,
+    term: "termId51.term",
+    mean: "termId51.mean",
+  },
+  {
+    id: 52,
+    term: "termId52.term",
+    mean: "termId52.mean",
+  },
+  {
+    id: 53,
+    term: "termId53.term",
+    mean: "termId53.mean",
+  },
+  {
+    id: 54,
+    term: "termId54.term",
+    mean: "termId54.mean",
+  },
+  {
+    id: 55,
+    term: "termId55.term",
+    mean: "termId55.mean",
+  },
+  {
+    id: 56,
+    term: "termId56.term",
+    mean: "termId56.mean",
+  },
+  {
+    id: 57,
+    term: "termId57.term",
+    mean: "termId57.mean",
+  },
+  {
+    id: 58,
+    term: "termId58.term",
+    mean: "termId58.mean",
+  },
+  {
+    id: 59,
+    term: "termId59.term",
+    mean: "termId59.mean",
+  },
+  {
+    id: 60,
+    term: "termId60.term",
+    mean: "termId60.mean",
+  },
+  {
+    id: 61,
+    term: "termId61.term",
+    mean: "termId61.mean",
+  },
+  {
+    id: 62,
+    term: "termId62.term",
+    mean: "termId62.mean",
+  },
+  {
+    id: 63,
+    term: "termId63.term",
+    mean: "termId63.mean",
+  },
+  {
+    id: 64,
+    term: "termId64.term",
+    mean: "termId64.mean",
+  },
+  {
+    id: 65,
+    term: "termId65.term",
+    mean: "termId65.mean",
+  },
+  {
+    id: 66,
+    term: "termId66.term",
+    mean: "termId66.mean",
+  },
+  {
+    id: 67,
+    term: "termId67.term",
+    mean: "termId67.mean",
+  },
+  {
+    id: 68,
+    term: "termId68.term",
+    mean: "termId68.mean",
+  },
+  {
+    id: 69,
+    term: "termId69.term",
+    mean: "termId69.mean",
+  },
+  {
+    id: 70,
+    term: "termId70.term",
+    mean: "termId70.mean",
+  },
+  {
+    id: 71,
+    term: "termId71.term",
+    mean: "termId71.mean",
+  },
+  {
+    id: 72,
+    term: "termId72.term",
+    mean: "termId72.mean",
+  },
+  {
+    id: 73,
+    term: "termId73.term",
+    mean: "termId73.mean",
+  },
+  {
+    id: 74,
+    term: "termId74.term",
+    mean: "termId74.mean",
+  },
+  {
+    id: 75,
+    term: "termId75.term",
+    mean: "termId75.mean",
+  },
+  {
+    id: 76,
+    term: "termId76.term",
+    mean: "termId76.mean",
+  },
+  {
+    id: 77,
+    term: "termId77.term",
+    mean: "termId77.mean",
+  },
+  {
+    id: 78,
+    term: "termId78.term",
+    mean: "termId78.mean",
+  },
+  {
+    id: 79,
+    term: "termId79.term",
+    mean: "termId79.mean",
+  },
+  {
+    id: 80,
+    term: "termId80.term",
+    mean: "termId80.mean",
+  },
+  {
+    id: 81,
+    term: "termId81.term",
+    mean: "termId81.mean",
+  },
+  {
+    id: 82,
+    term: "termId82.term",
+    mean: "termId82.mean",
+  },
+  {
+    id: 83,
+    term: "termId83.term",
+    mean: "termId83.mean",
+  },
+  {
+    id: 84,
+    term: "termId84.term",
+    mean: "termId84.mean",
+  },
+  {
+    id: 85,
+    term: "termId85.term",
+    mean: "termId85.mean",
+  },
+  {
+    id: 86,
+    term: "termId86.term",
+    mean: "termId86.mean",
+  },
+  {
+    id: 87,
+    term: "termId87.term",
+    mean: "termId87.mean",
+  },
+  {
+    id: 88,
+    term: "termId88.term",
+    mean: "termId88.mean",
+  },
+  {
+    id: 89,
+    term: "termId89.term",
+    mean: "termId89.mean",
+  },
+  {
+    id: 90,
+    term: "termId90.term",
+    mean: "termId90.mean",
+  },
+  {
+    id: 91,
+    term: "termId91.term",
+    mean: "termId91.mean",
+  },
+  {
+    id: 92,
+    term: "termId92.term",
+    mean: "termId92.mean",
+  },
+  {
+    id: 93,
+    term: "termId93.term",
+    mean: "termId93.mean",
+  },
+  {
+    id: 94,
+    term: "termId94.term",
+    mean: "termId94.mean",
+  },
+  {
+    id: 95,
+    term: "termId95.term",
+    mean: "termId95.mean",
+  },
+  {
+    id: 96,
+    term: "termId96.term",
+    mean: "termId96.mean",
+  },
+  {
+    id: 97,
+    term: "termId97.term",
+    mean: "termId97.mean",
+  },
+  {
+    id: 98,
+    term: "termId98.term",
+    mean: "termId98.mean",
+  },
+  {
+    id: 99,
+    term: "termId99.term",
+    mean: "termId99.mean",
+  },
+  {
+    id: 100,
+    term: "termId100.term",
+    mean: "termId100.mean",
+  },
+  {
+    id: 101,
+    term: "termId101.term",
+    mean: "termId101.mean",
+  },
+  {
+    id: 102,
+    term: "termId102.term",
+    mean: "termId102.mean",
+  },
+  {
+    id: 103,
+    term: "termId103.term",
+    mean: "termId103.mean",
+  },
+  {
+    id: 104,
+    term: "termId104.term",
+    mean: "termId104.mean",
+  },
+  {
+    id: 105,
+    term: "termId105.term",
+    mean: "termId105.mean",
+  },
+  {
+    id: 106,
+    term: "termId106.term",
+    mean: "termId106.mean",
+  },
+  {
+    id: 107,
+    term: "termId107.term",
+    mean: "termId107.mean",
+  },
+  {
+    id: 108,
+    term: "termId108.term",
+    mean: "termId108.mean",
+  },
+  {
+    id: 109,
+    term: "termId109.term",
+    mean: "termId109.mean",
+  },
+  {
+    id: 110,
+    term: "termId110.term",
+    mean: "termId110.mean",
+  },
+  {
+    id: 111,
+    term: "termId111.term",
+    mean: "termId111.mean",
+  },
+  {
+    id: 112,
+    term: "termId112.term",
+    mean: "termId112.mean",
+  },
+  {
+    id: 113,
+    term: "termId113.term",
+    mean: "termId113.mean",
+  },
+  {
+    id: 114,
+    term: "termId114.term",
+    mean: "termId114.mean",
+  },
+  {
+    id: 115,
+    term: "termId115.term",
+    mean: "termId115.mean",
+  },
+  {
+    id: 116,
+    term: "termId116.term",
+    mean: "termId116.mean",
+  },
+  {
+    id: 117,
+    term: "termId117.term",
+    mean: "termId117.mean",
+  },
+  {
+    id: 118,
+    term: "termId118.term",
+    mean: "termId118.mean",
+  },
+  {
+    id: 119,
+    term: "termId119.term",
+    mean: "termId119.mean",
+  },
+  {
+    id: 120,
+    term: "termId120.term",
+    mean: "termId120.mean",
+  },
+  {
+    id: 121,
+    term: "termId121.term",
+    mean: "termId121.mean",
+  },
+  {
+    id: 122,
+    term: "termId122.term",
+    mean: "termId122.mean",
+  },
+  {
+    id: 123,
+    term: "termId123.term",
+    mean: "termId123.mean",
+  },
+  {
+    id: 124,
+    term: "termId124.term",
+    mean: "termId124.mean",
+  },
+  {
+    id: 125,
+    term: "termId125.term",
+    mean: "termId125.mean",
+  },
+  {
+    id: 126,
+    term: "termId126.term",
+    mean: "termId126.mean",
+  },
+  {
+    id: 127,
+    term: "termId127.term",
+    mean: "termId127.mean",
+  },
+  {
+    id: 128,
+    term: "termId128.term",
+    mean: "termId128.mean",
+  },
+  {
+    id: 129,
+    term: "termId129.term",
+    mean: "termId129.mean",
+  },
+  {
+    id: 130,
+    term: "termId130.term",
+    mean: "termId130.mean",
+  },
+  {
+    id: 131,
+    term: "termId131.term",
+    mean: "termId131.mean",
+  },
+  {
+    id: 132,
+    term: "termId132.term",
+    mean: "termId132.mean",
+  },
+  {
+    id: 133,
+    term: "termId133.term",
+    mean: "termId133.mean",
+  },
+  {
+    id: 134,
+    term: "termId134.term",
+    mean: "termId134.mean",
+  },
+  {
+    id: 135,
+    term: "termId135.term",
+    mean: "termId135.mean",
+  },
+  {
+    id: 136,
+    term: "termId136.term",
+    mean: "termId136.mean",
+  },
+  {
+    id: 137,
+    term: "termId137.term",
+    mean: "termId137.mean",
+  },
+  {
+    id: 138,
+    term: "termId138.term",
+    mean: "termId138.mean",
+  },
+  {
+    id: 139,
+    term: "termId139.term",
+    mean: "termId139.mean",
+  },
+  {
+    id: 140,
+    term: "termId140.term",
+    mean: "termId140.mean",
+  },
+  {
+    id: 141,
+    term: "termId141.term",
+    mean: "termId141.mean",
+  },
+  {
+    id: 142,
+    term: "termId142.term",
+    mean: "termId142.mean",
+  },
+  {
+    id: 143,
+    term: "termId143.term",
+    mean: "termId143.mean",
+  },
+  {
+    id: 144,
+    term: "termId144.term",
+    mean: "termId144.mean",
+  },
+  {
+    id: 145,
+    term: "termId145.term",
+    mean: "termId145.mean",
+  },
+  {
+    id: 146,
+    term: "termId146.term",
+    mean: "termId146.mean",
+  },
+  {
+    id: 147,
+    term: "termId147.term",
+    mean: "termId147.mean",
+  },
+  {
+    id: 148,
+    term: "termId148.term",
+    mean: "termId148.mean",
+  },
+  {
+    id: 149,
+    term: "termId149.term",
+    mean: "termId149.mean",
+  },
+  {
+    id: 150,
+    term: "termId150.term",
+    mean: "termId150.mean",
+  },
+  {
+    id: 151,
+    term: "termId151.term",
+    mean: "termId151.mean",
+  },
+  {
+    id: 152,
+    term: "termId152.term",
+    mean: "termId152.mean",
+  },
+  {
+    id: 153,
+    term: "termId153.term",
+    mean: "termId153.mean",
+  },
+  {
+    id: 154,
+    term: "termId154.term",
+    mean: "termId154.mean",
+  },
+  {
+    id: 155,
+    term: "termId155.term",
+    mean: "termId155.mean",
+  },
+  {
+    id: 156,
+    term: "termId156.term",
+    mean: "termId156.mean",
+  },
+  {
+    id: 157,
+    term: "termId157.term",
+    mean: "termId157.mean",
+  },
+  {
+    id: 158,
+    term: "termId158.term",
+    mean: "termId158.mean",
+  },
+  {
+    id: 159,
+    term: "termId159.term",
+    mean: "termId159.mean",
+  },
+  {
+    id: 160,
+    term: "termId160.term",
+    mean: "termId160.mean",
+  },
+  {
+    id: 161,
+    term: "termId161.term",
+    mean: "termId161.mean",
+  },
+  {
+    id: 162,
+    term: "termId162.term",
+    mean: "termId162.mean",
+  },
+  {
+    id: 163,
+    term: "termId163.term",
+    mean: "termId163.mean",
+  },
+  {
+    id: 164,
+    term: "termId164.term",
+    mean: "termId164.mean",
+  },
+  {
+    id: 165,
+    term: "termId165.term",
+    mean: "termId165.mean",
+  },
+  {
+    id: 166,
+    term: "termId166.term",
+    mean: "termId166.mean",
+  },
+  {
+    id: 167,
+    term: "termId167.term",
+    mean: "termId167.mean",
+  },
+  {
+    id: 168,
+    term: "termId168.term",
+    mean: "termId168.mean",
+  },
+  {
+    id: 169,
+    term: "termId169.term",
+    mean: "termId169.mean",
+  },
+  {
+    id: 170,
+    term: "termId170.term",
+    mean: "termId170.mean",
+  },
+  {
+    id: 171,
+    term: "termId171.term",
+    mean: "termId171.mean",
+  },
+  {
+    id: 172,
+    term: "termId172.term",
+    mean: "termId172.mean",
+  },
+  {
+    id: 173,
+    term: "termId173.term",
+    mean: "termId173.mean",
+  },
+  {
+    id: 174,
+    term: "termId174.term",
+    mean: "termId174.mean",
+  },
+  {
+    id: 175,
+    term: "termId175.term",
+    mean: "termId175.mean",
+  },
+  {
+    id: 176,
+    term: "termId176.term",
+    mean: "termId176.mean",
+  },
+  {
+    id: 177,
+    term: "termId177.term",
+    mean: "termId177.mean",
+  },
+  {
+    id: 178,
+    term: "termId178.term",
+    mean: "termId178.mean",
+  },
+  {
+    id: 179,
+    term: "termId179.term",
+    mean: "termId179.mean",
+  },
+  {
+    id: 180,
+    term: "termId180.term",
+    mean: "termId180.mean",
+  },
+  {
+    id: 181,
+    term: "termId181.term",
+    mean: "termId181.mean",
+  },
+  {
+    id: 182,
+    term: "termId182.term",
+    mean: "termId182.mean",
+  },
+  {
+    id: 183,
+    term: "termId183.term",
+    mean: "termId183.mean",
+  },
+  {
+    id: 184,
+    term: "termId184.term",
+    mean: "termId184.mean",
+  },
+  {
+    id: 185,
+    term: "termId185.term",
+    mean: "termId185.mean",
+  },
+  {
+    id: 186,
+    term: "termId186.term",
+    mean: "termId186.mean",
+  },
+];
+
+export const realData = [
   {
     id: 1,
     termRU: "Аваль (франц. aval- одобрение)",
@@ -11,6 +963,7 @@ export const fakeData = [
     meanEN:
       "a bill of exchange guarantee, according to which the sponsor – an avails – assumes responsibility for paying the bill of exchange to its owner",
   },
+
   {
     id: 2,
     termRU: "Агент",
@@ -1047,8 +2000,9 @@ export const fakeData = [
     termRU: "Выгодоприобретатель (бенефициарий)",
     meanRU:
       "физическое или юридическое лицо, которое получает либо может получить право на получение выгод по завещанию, страховому полису, пенсионному плану, договору ренты, договору доверительного управления имуществом (договору траста) или иному договору",
-    termEN:
-      "Beneficiary (s) + a natural or legal person who receives or may receive the right to receive benefits under a will, insurance policy, pension plan, rent agreement, property trust management agreement (trust agreement) or other agreement",
+    termEN: "Beneficiary",
+    meanEN:
+      "a natural or legal person who receives or may receive the right to receive benefits under a will, insurance policy, pension plan, rent agreement, property trust management agreement (trust agreement) or other agreement",
   },
   {
     id: 119,
@@ -1072,7 +2026,7 @@ export const fakeData = [
     id: 121,
     termRU: "Выпущенные и находящиеся в обращении акции",
     meanRU:
-      "акции, которые представляют собой инвестированный капитал акционеров общества. Акции, которые были выпущены и впоследствии выкуплены обществом, называются казначейскими акциями, поскольку они находятся на балансе общества до их повторного выпуска или погашения. Казначейские акции являются выпущенными, но не считаются находящимися в обращении в целях голосования, начисления дивидендов или расчета прибыли на одну акцию",
+      "акции, которые представляют собой инвестированный капитал акционеров общества. Акции, которые были выпущены и впоследствии выкуплены обществом, называются казначейскими акциями, поскольку они находятся на балансе общества до их повторного выпуска или погашения. Казначейские акции являются выпущенными, но не считаются находящимися в обращении в целях голосования, начисления дивидендов или расчета прибыли на одну акцию",
     termEN: "Issued and outstanding shares",
     meanEN:
       "shares that represent the invested capital of the company's shareholders. Shares that were issued and subsequently repurchased by the company are referred to as treasury shares because they are held on the company's balance sheet until they are re-issued or redeemed Treasury shares are issued but are not considered outstanding for voting purposes, for calculating dividends, or for calculating earnings per share",
@@ -1377,10 +2331,10 @@ export const fakeData = [
     id: 156,
     termRU: "Независимость",
     meanRU:
-      "свобода от контроля и влияния других лиц. Понятие независимости в настоящем курсе используется в различном контексте: 1) по отношению к членам совета директоров; 2) по отношению к независимому аудитору или аудитору общества; 3) по отношению к внутреннему аудитору; 4) по отношению к независимому оценщику",
+      "свобода от контроля и влияния других лиц. Понятие независимости в настоящем курсе используется в различном контексте: 1) по отношению к членам совета директоров; 2) по отношению к независимому аудитору или аудитору общества; 3) по отношению к внутреннему аудитору; 4) по отношению к независимому оценщику",
     termEN: "Independence",
     meanEN:
-      "freedom from the control and influence of others. The concept of independence is used in various contexts throughout this course: 1) in relation to members of the board of directors; 2) in relation to the independent auditor or the company's auditor; 3) in relation to the internal auditor; 4) in relation to an independent appraiser",
+      "freedom from the control and influence of others. The concept of independence is used in various contexts throughout this course: 1) in relation to members of the board of directors; 2) in relation to the independent auditor or the company's auditor; 3) in relation to the internal auditor; 4) in relation to an independent appraiser",
   },
   {
     id: 157,
@@ -1638,24 +2592,5 @@ export const fakeData = [
     meanRU: "компания, осуществившая эмиссию ценных бумаг",
     termEN: "Issuer",
     meanEN: "the company that issued the securities",
-  },
-];
-
-export const authInfo = [
-  {
-    id: 1,
-    fullName: "Мухаммад Еид Балбаа",
-    position: "Доцент",
-    department: `Кафедра Мировой экономики`,
-    university: "Ташкентский государственный экономический университет",
-    authImage: muhammad,
-  },
-  {
-    id: 2,
-    fullName: "Абдурашидова Марина Сагатовна",
-    department: `кафедра "Корпоративная экономика и управление"`,
-    university: "Ташкентский государственный экономический университет",
-    position: "старший преподаватель",
-    authImage: marina,
   },
 ];

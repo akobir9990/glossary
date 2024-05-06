@@ -1,0 +1,768 @@
+{
+  "title": "Glossaries",
+  "authors": "Authors",
+  "niceTomeetYou": "Welcome to our glossary app",
+  "startBTn": "Start",
+  "aboutProgramTitle": "Glossary app",
+  "aboutProgramDescribtion": "This program is designed to facilitate the process of learning terms often used in a subject, or the process of repeating knowledge.",
+  "appbarMenu": {
+    "aboutAuths": "About authors",
+    "aboutProgram": "About program"
+  },
+  "muhamed": {
+    "fullName": "Muhamed Eid Aly Balbaa",
+    "department": "Department of World Economy",
+    "university": "Tashkent State Economic University",
+    "position": "Assistant professor"
+  },
+  "marina": {
+    "fullName": "Abdurashidova Marina Sagatovna",
+    "department": "Department of Corporate Economics and Management",
+    "university": "Tashkent State Economic University",
+    "position": "Senior Lecturer"
+  },
+  "termId1": {
+    "term": "Aval (French aval- approval)",
+    "mean": "a bill of exchange guarantee, according to which the sponsor – an avails – assumes responsibility for paying the bill of exchange to its owner"
+  },
+  "termId2": {
+    "term": "Agent",
+    "mean": "a legal entity or individual who performs operations on behalf of another person at his expense and on his behalf, receiving an \"agency fee\" for this, works under a contract with the principal"
+  },
+  "termId3": {
+    "term": "Agent costs",
+    "mean": "are expenses that shareholders are forced to pay in order to control the activities of financial managers. There are three major categories of agency costs: audit costs, organizational structure costs, and alternative costs"
+  },
+  "termId4": {
+    "term": "Agens relationships",
+    "mean": "are relationships that arise when one or more individual shire one or more agents to provide services and then give the agents decision-making powers. In financial management, the primary agency relationship is the relationship between shareholders and manager sand between creditors and shareholders represented by the financial manager"
+  },
+  "termId5": {
+    "term": "Aggressive financing strategy (aggressive financial strategy)",
+    "mean": "a strategy for financing the current assets of a firm, in which the firm finances the entire volume of fixed assets and a certain share of the permanent part of working capital by attracting long-term loans, and the remaining share for the permanent part of current assets"
+  },
+  "termId6": {
+    "term": "Assets",
+    "mean": "a set of assets and funds belonging to a firm (buildings, structures, machinery and equipment, inventory, bank deposits, investments in securities, patents, copyrights), in which the owners ' funds are invested. The firm's assets indicate what the company's funds are invested in, and they reflect the firm's investment decisions. A distinction is made between long-term and current assets"
+  },
+  "termId7": {
+    "term": "Long-term assets",
+    "mean": "fixed assets, construction in progress, long-term financial investments; intangible assets —intellectual property, technologies, patents, etc"
+  },
+  "termId8": {
+    "term": "Current assets",
+    "mean": "low-value and fast-wearing items, production stocks, finished goods, cash, receivables, and short-term financial investments of the firm"
+  },
+  "termId9": {
+    "term": "A joint-stock company",
+    "mean": "company is a business company formed by persons who have combined their property and funds into the authorized capital, which is divided into a certain number of shares secured by securities — shares. Shareholders are liable for the company's obligations and bear the risk of losses related to the company's activities, up to the value of their shares. The main features of a joint-stock company are that it has the status of a legal entity, is responsible for its obligations with all its property and has an authorized capital. The advantages of a joint-stock company as a form of business organization are considered to be the possibility of raising funds by issuing shares, as well as limiting the risk of the depositor by the amount of the contribution to the authorized fund. The joint-stock company issues such securities as shares, bonds, etc"
+  },
+  "termId10": {
+    "term": "Closed joint",
+    "mean": "stock company a business company in which the number of shareholders is limited and should not exceed 50. Shares of a closed joint-stock company are distributed to a limited number of persons (usually founders) who have a pre-emptive right to purchase shares sold by other shareholders"
+  },
+  "termId11": {
+    "term": "Open joint",
+    "mean": "stock company is a business company that freely issues and distributes new shares to an unlimited number of potential shareholders, which makes it possible to raise significant capital"
+  },
+  "termId12": {
+    "term": "A share (shares, amer. stock)",
+    "mean": "is a security issued by a joint-stock company without a fixed circulation period, which certifies that its owner has paid a share in the company's share capital and allows him to receive income from the company's profit, called a dividend. The price at which shares are sold and purchased is called the share price, which is calculated as the ratio of the dividend to bank interest multiplied by 100. The ratio of supply and demand for shares in the securities market has a significant impact on the share price"
+  },
+  "termId13": {
+    "term": "Preference share (amer. preferred stock)",
+    "mean": "a share for which the dividend is a fixed amount and is paid primarily in the event of liquidation of the company. Holders of preferred shares do not have the right to vote at the general shareholders' meeting"
+  },
+  "termId14": {
+    "term": "Ordinary share (amer. common stock)",
+    "mean": "a share that allows its owner to receive a dividend depending on the results of the joint-stock company's activities and vote at the general meeting of shareholders"
+  },
+  "termId15": {
+    "term": "Opportunity costs",
+    "mean": "the benefit lost due to non-use of an economic resource in the most profitable of all possible activities. For example, if it is necessary to choose from several competing and mutually exclusive investment projects, the choice will be based on an assessment of alternative costs equal to the income that could be obtained as a result of the second most optimal option (I.e., the best one that had to be abandoned)"
+  },
+  "termId16": {
+    "term": "Amortization (amortization, depreciation)",
+    "mean": "the process of gradual transfer of the cost of fixed capital to the product produced"
+  },
+  "termId17": {
+    "term": "Digressive depreciation",
+    "mean": "is a slow write-off of equipment, when its residual value is taken as the base. This method allows you to reduce current costs and increase today's profit"
+  },
+  "termId18": {
+    "term": "Straight-line depreciation",
+    "mean": "is a method of writing off depreciation charges in which it is carried out in proportion to the service life of the equipment, for example, 10 % annually. this means that the service life of the equipment is calculated for 10 years, after which the equipment can be replaced"
+  },
+  "termId19": {
+    "term": "Depreciation (Accelerated depreciation)",
+    "mean": "is a method of writing off depreciation charges in which a larger percentage of the cost of equipment is written off in the first years, then a smaller percentage in subsequent years, for example, 30 % in the first year of service, 25% in the second year, 20% in the third, 15% in the fourth and 10% in the fifth"
+  },
+  "termId20": {
+    "term": "Arbitrage",
+    "mean": "is a type of speculative operation in financial markets, which is based on the use of price differences in various market sectors"
+  },
+  "termId21": {
+    "term": "Asymmetric (information)",
+    "mean": "additional information that financial managers have about the state and development prospects of their own firms, and on the basis of which they can determine that the share price of their firm is overvalued or undervalued. The potential impact of asymmetric information on financial markets is demonstrated in the work of J.R.R. Tolkien. Akerlof's \"The Lemon Market: Quality Uncertainty and the Market Mechanism\", published inБаланс предприятия 1970balance ,) is one of the main forms of reporting, consisting of a series of accounts showing the financial position of the organization at a certain date. The balance sheet consists of three sections: assets, liabilities, and equity. Assets should always be equal to the amount of equity liabilities. This equation is called the basic balance equation"
+  },
+  "termId22": {
+    "term": "Information asymmetry",
+    "mean": "is a situation in which one group has the necessary information for doing business, and the other does not"
+  },
+  "termId23": {
+    "term": "An outsider",
+    "mean": "is a person who is not directly related to the corporation or its management, including \"non-executive director\" and \"independent director\", or an external shareholder who is a shareholder of the corporation but is not an employee of the corporation"
+  },
+  "termId24": {
+    "term": "Affiliated companies",
+    "mean": "are defined as physical or legal entities that can influence the activities of legal entities or individuals engaged in entrepreneurial activities"
+  },
+  "termId25": {
+    "term": "A bank",
+    "mean": "is a credit and financial institution that concentrates temporarily available funds (deposits), provides them for temporary use in the form of loans( loans, loans), mediates mutual payments and settlements between enterprises, institutions or individuals, and regulates money circulation in the country, including the issue (issue) new money (function of the Central Bank only). The two-tier banking system in Uzbekistanis represented by the Central Bank and commercial banks"
+  },
+  "termId26": {
+    "term": "A bank loan",
+    "mean": "is the second most important source of short-term credit (after a commercial loan). Usually, bank loans are reflected in the \"promissory notes payable\" section, but the form of reporting may be different, then another line will appear in the balance sheet — \"short-term loans\"– Bank loans are more widely used by companies than commercial loans, because they do not originate spontaneously"
+  },
+  "termId27": {
+    "term": "Bank rate",
+    "mean": "is a form of interest on a loan in which the lender is a banking institution. Interest is allocated: deposit, on loans, on interbank loans. The level of bank interest is determined by the agreement between the parties to the transaction. The basis to which interest tends at the macroeconomic level is the average rate of retur"
+  },
+  "termId28": {
+    "term": "Stock exchange)",
+    "mean": "an organized market where transactions in securities and other financial instruments are carried out and whose activities are controlled by the state. Funds are raised through the stock exchange for long-term investments in the economy and for financing government programs. On the stock exchange, shares, bonds of equity companies, government loan bonds, and other securities and their derivatives are bought and sold. In the course of trading, the rate of securities traded on the stock exchange is set, which is determined by the income generated (in the form of a dividend or interest), the level of loan interest and the ratio of supply and demand in the securities market. Today, there are stock exchanges in 60 countries around the world"
+  },
+  "termId29": {
+    "term": "Cash budget a plan of budget)",
+    "mean": "payments and receipts of funds for a certain period of time. It is used for forecasting temporary cash surpluses and deficits, and thus is a planning tool in the process of managing cash"
+  },
+  "termId30": {
+    "term": "Budgeting",
+    "mean": "a capital expenditure plan that determines the planned expenditure on fixed assets. The investment budget is based on the analysis of available investment projects and the selection of the most acceptable and effective ones. Since we are talking about fixed, assets, the service life of which is designed for several years, when planning capital investments, the discounting process is of particular importance, which is ignored in the analysis of working capital"
+  },
+  "termId31": {
+    "term": "Promissory note",
+    "mean": "a security of a strictly prescribed form, containing an unconditional obligation of the person issuing it to make payment of the specified amount to the person named in the promissory note or to the bearer of the promissory note within the stipulated period"
+  },
+  "termId32": {
+    "term": "Promissory note operations of banks",
+    "mean": "banking operations related to the maintenance of promissory notes, their use as objects of civil turnover and obligations. Such operations include accounting and re-accounting of promissory notes, issuing loans secured by promissory notes, issuing your own promissory notes to raise funds, and so on"
+  },
+  "termId33": {
+    "term": "Annual report",
+    "mean": "a document provided to the company's shareholders and other interested parties during the annual General meeting of shareholders, including the balance sheet, profit and loss statement, auditor's report and audit commission, management's comments on the company's performance, corporate governance organization and development prospects of the company"
+  },
+  "termId34": {
+    "term": "Cumulative",
+    "mean": "voting means voting at a general meeting of shareholders, during which the shareholder votes on the items on the agenda of the meeting not by one vote, but by several votes as a result of their accumulation, on a certain list of issues regulated by the Law \"On Joint Stock Companies\""
+  },
+  "termId35": {
+    "term": "Proxy",
+    "mean": "voting means voting at the general meeting of shareholders that takes place if the shareholder entrusts another person to vote for him / her by proxy"
+  },
+  "termId36": {
+    "term": "Direct voting",
+    "mean": "means ordinary voting at a general meeting of shareholders, which takes place on the principle of \"one share - one vote\""
+  },
+  "termId37": {
+    "term": "Accounts receivable",
+    "mean": "the amount of debts owed to the company by other enterprises, as well as citizens who are their debtors, debtors, is presented in the form of invoices reflecting the debts of other companies"
+  },
+  "termId38": {
+    "term": "Depository",
+    "mean": "a securities market participant engaged in depository activities"
+  },
+  "termId39": {
+    "term": "Depository activity",
+    "mean": "provision of services for the storage of securities certificates and / or accounting and transfer of rights to securities"
+  },
+  "termId40": {
+    "term": "Dividends",
+    "mean": "a part of the profit of a joint-stock company, which it distributes among its shareholders and pays them annually in accordance with the shares held by them in proportion to their contributions to the share capital"
+  },
+  "termId41": {
+    "term": "Share splitting is",
+    "mean": "the process of converting one share of a certain category (type) into two or more shares of the same category (type)"
+  },
+  "termId42": {
+    "term": "Interested parties",
+    "mean": "persons who have a commercial interest in the company's business activities, but are not directly involved in the management and implementation of the company's business transactions"
+  },
+  "termId43": {
+    "term": "Investor",
+    "mean": "a person who invests capital in the actual production or securities of a company in order to make a profit or obtain the right to participate in the management of this company"
+  },
+  "termId44": {
+    "term": "Individual investor",
+    "mean": "an individual who invests in the activities of this company"
+  },
+  "termId45": {
+    "term": "Initiators of unfriendly takeovers are",
+    "mean": "persons who are interested in acquiring ownership rights to the company through the purchase of shares or other \"aggressive\" activities"
+  },
+  "termId46": {
+    "term": "Insider",
+    "mean": "a person who is directly related to the company's activities, is a shareholder and employee of the company, and has access to the company's commercial information"
+  },
+  "termId47": {
+    "term": "Institutional investor",
+    "mean": "various financial, public, and state organizations that make investments in the corporation's activities"
+  },
+  "termId48": {
+    "term": "Executive Director",
+    "mean": "a member of the Board of Directors of the company who is a manager of the company in accordance with the employment contract"
+  },
+  "termId49": {
+    "term": "Capital",
+    "mean": "a set of funds necessary for doing business, primarily for organizing and carrying out production and commercial activities"
+  },
+  "termId50": {
+    "term": "Joint-stock capital",
+    "mean": "a type of authorized capital of a commercial organization - a joint-stock company, formed by issuing shares"
+  },
+  "termId51": {
+    "term": "Share capital is",
+    "mean": "a type of authorized capital of a commercial organization - a production cooperative, formed at the expense of the contributed shares of its participants"
+  },
+  "termId52": {
+    "term": "Pooled capital is",
+    "mean": "a type of authorized capital of business partnerships and companies formed at the expense of shares or contributions of the founders"
+  },
+  "termId53": {
+    "term": "Quorum",
+    "mean": "the minimum number of votes of shareholders whose presence is necessary for the vote to be recognized as valid"
+  },
+  "termId54": {
+    "term": "The Code of Corporate Conduct is",
+    "mean": "a set of rules and business practices for the main components of the corporate governance process in companies, which is advisory in nature"
+  },
+  "termId55": {
+    "term": "Committees attached to the Board",
+    "mean": "of Directors are intended for preliminary consideration of the most important issues within the competence of the Board of Directors and preparation of recommendations to the Board of Directors for making decisions on such issues"
+  },
+  "termId56": {
+    "term": "Share conversion is",
+    "mean": "a procedure in which a company exchanges securities of one type for securities of another type"
+  },
+  "termId57": {
+    "term": "Stock consolidation is",
+    "mean": "the process of converting two or more shares of the same category (type) into one share of the same category (type)"
+  },
+  "termId58": {
+    "term": "Controlling interest",
+    "mean": "the number of shares that allow managing (controlling) a joint-stock company. In theory, the controlling interest should be 50 % of the issued shares plus one share. In practice, it is sufficient to have 5-10 % of the total number of shares, since the so-called \"dispersion of shares\" often occurs among a huge number of small shareholders who do not have the right to vote at the general meeting"
+  },
+  "termId59": {
+    "term": "Corporate governance is",
+    "mean": "an organizational model of corporate governance that includes the following elements: the General Meeting of Shareholders, the Management Board, and the Board of Directors"
+  },
+  "termId60": {
+    "term": "Corporate blackmail is",
+    "mean": "a type of corporate conflict involving minority shareholders, aimed at buying out minority shareholders ' blocks of shares at a price higher than their market value, or at paying the amount necessary to end the conflict"
+  },
+  "termId61": {
+    "term": "A corporation",
+    "mean": "is an organization that has set itself certain goals, acts for the public good, has certain rights, is a legal entity, operates on a permanent basis and bears limited responsibility"
+  },
+  "termId62": {
+    "term": "Loan",
+    "mean": "money, goods or other asset provided by the lender to the borrower, usually for a certain period of time on repayment terms, most often with the borrower paying interest for using the loan"
+  },
+  "termId63": {
+    "term": "Line of credit",
+    "mean": "a formal or informal agreement between the bank and the borrower, which determines the maximum amount of credit that the bank can provide to this client"
+  },
+  "termId64": {
+    "term": "Major transaction",
+    "mean": "a transaction or several mutually related transactions related to the acquisition or alienation of property by the company, the value of which is 25 percent or more of the book value of the company's assets, with the exception of transactions made in the course of the company's normal activities"
+  },
+  "termId65": {
+    "term": "Exchange value of shares (market price of shares, market price of shares)",
+    "mean": "a concentrated valuation of the company's securities by all participants of the securities market"
+  },
+  "termId66": {
+    "term": "Leasing",
+    "mean": "is a financial transaction involving the use of property through a lease"
+  },
+  "termId67": {
+    "term": "Liquidity",
+    "mean": "the ability of valuables to be converted into money"
+  },
+  "termId68": {
+    "term": "LIFO",
+    "mean": "accounting method, according to which stocks of goods are fixed in monetary terms at the price of the last batch of goods received"
+  },
+  "termId69": {
+    "term": "Majority shareholders are",
+    "mean": "holders of large blocks of shares that exercise significant control over the company"
+  },
+  "termId70": {
+    "term": "Minority shareholders are",
+    "mean": "holders of small (small) blocks of shares that are not sufficient to lobby for certain political and commercial issues in the company"
+  },
+  "termId71": {
+    "term": "Unfriendly takeover (takeover)",
+    "mean": "aggressive actions of an investor to acquire shares from shareholders in order to form a controlling stake in the company, which occur without the knowledge of the corporation's management"
+  },
+  "termId72": {
+    "term": "Non-executive Director",
+    "mean": "a member of the Board of Directors of the company who is not a company manager and is not dependent on management. Does not receive any benefits from the company other than payment as a director. He may be a director or manager of a holding company that includes this company, as well as a major investor who does not have executive rights in this company"
+  },
+  "termId73": {
+    "term": "Bond",
+    "mean": "a debt receipt issued by the borrower to the lender; a security that gives their owner the right to receive periodic (interest on the bond, coupon payments) or various payments and the principal amount of the debt at the end of the bond's maturity"
+  },
+  "termId74": {
+    "term": "The General Meeting of Shareholders is",
+    "mean": "the highest management body of the company, consisting of the founders and owners of the company, established to resolve issues referred to its competence by the Law \"On Joint Stock Companies\", the company's charter"
+  },
+  "termId75": {
+    "term": "Opportunistic behavior",
+    "mean": "caused by the asymmetry of information in the market, as a result of which individual economic entities violate the conditions stipulated by law, in order to attract commercial benefits"
+  },
+  "termId76": {
+    "term": "Option – (choice, desire, discretion)",
+    "mean": "the right to choose the terms of the transaction, received for a certain fee."
+  },
+  "termId77": {
+    "term": "An option contract",
+    "mean": "is a contract that, in exchange for a premium, grants the buyer the right to buy or sell a financial asset at the strike price of the seller for a specified period of time"
+  },
+  "termId78": {
+    "term": "Responsibility",
+    "mean": "is the basic principle of corporate governance, which provides for the responsibility of management and decision-makers related to the company's activities to shareholders and other interested parties"
+  },
+  "termId79": {
+    "term": "Joint and several liability",
+    "mean": "the liability of each person within the full amount of obligations of the aggregate of persons"
+  },
+  "termId80": {
+    "term": "Subsidiary liability",
+    "mean": "liability for the company's obligations with its own property, in the same multiple for all participants to the value of their deposits"
+  },
+  "termId81": {
+    "term": "An offshore company",
+    "mean": "is a company registered in a country or economic zone with preferential taxation"
+  },
+  "termId82": {
+    "term": "Accountability",
+    "mean": "is a basic principle of corporate governance that provides for a clear delineation of the functions and powers of all management bodies, and accountability of executive bodies to the supervisory board and shareholders"
+  },
+  "termId83": {
+    "term": "The Management Board is",
+    "mean": "the operational (executive)body that manages the corporation's current business activities. It can be represented in the form of a single executive body (General Director, Director) or a collective executive body (General Director and top management)"
+  },
+  "termId84": {
+    "term": "Profit",
+    "mean": "an increase in income from the sale of goods, services, and other assets over the costs of their acquisition, production, and sale"
+  },
+  "termId85": {
+    "term": "Posting (accounting posting)",
+    "mean": "a type of transaction documentation that implements the accounting principle of double entry, i.e. simultaneously records the debit and credit of registered accounts for the required amount"
+  },
+  "termId86": {
+    "term": "Transparency",
+    "mean": "is a basic principle of corporate governance that provides for timely and accurate disclosure of information on all material issues related to the company, including its ownership structure, financial position, results of operations, etc"
+  },
+  "termId87": {
+    "term": "The Register of Shareholders",
+    "mean": "is a list of registered owners with an indication of the number, par value and category of securities belonging to them, compiled on any specified date, with mandatory reflection of the movement of securities"
+  },
+  "termId88": {
+    "term": "Profitability",
+    "mean": "the ratio of the profit received to the invested capital"
+  },
+  "termId89": {
+    "term": "Securities market",
+    "mean": "(stock market)"
+  },
+  "termId90": {
+    "term": "A related party transaction",
+    "mean": "is a transaction involving insiders or related parties that has a legitimate purpose, but is carried out both in good conscience and in bad faith, which may result in a reduction in the value of the business and the loss of ownership by shareholders"
+  },
+  "termId91": {
+    "term": "The Board of Directors is",
+    "mean": "a strategic management body of a corporation that determines the main priorities of its activities"
+  },
+  "termId92": {
+    "term": "Equity",
+    "mean": "is a basic principle of corporate governance that allows a company to successfully operate in a fair competition environment, while ensuring the rights of all its participants, including minority shareholders"
+  },
+  "termId93": {
+    "term": "Weighted average cost method",
+    "mean": "an accounting method in which the cost of a product is determined for a certain period of time based on the weighted average cost of similar products available at the beginning of the period and purchased or produced during the period"
+  },
+  "termId94": {
+    "term": "Stakeholders are",
+    "mean": "a wide range of individuals, public and state organizations related to the enterprise, economic agents, social groups and power structures that are influenced by the business and which, in turn, can influence its success"
+  },
+  "termId95": {
+    "term": "Depo account",
+    "mean": "a set of entries in the depository's registers combined by a common feature, intended for accounting for securities"
+  },
+  "termId96": {
+    "term": "Managers",
+    "mean": "are senior managers who manage the company's day-to-day business operations"
+  },
+  "termId97": {
+    "term": "Trust",
+    "mean": "a trust management agreement under which property is transferred to a certain person (trustee) who manages it for the benefit of another person (beneficiary)"
+  },
+  "termId98": {
+    "term": "Registered promissory",
+    "mean": "note a promissory note owned by the bank and purchased by the bank from its previous holder in the accounting procedure"
+  },
+  "termId99": {
+    "term": "Factoring",
+    "mean": "is a type of financial services provided by commercial banks or factor companies to small and medium – sized client firms"
+  },
+  "termId100": {
+    "term": "FIFO",
+    "mean": "accounting method, according to which stocks are fixed in monetary terms at the price of the first batch of these goods received"
+  },
+  "termId101": {
+    "term": "Forfeiting",
+    "mean": "lending to an exporter by purchasing promissory notes accepted by the importer"
+  },
+  "termId102": {
+    "term": "Futures (futures contract)",
+    "mean": "a contract for the purchase or sale of goods with delivery on a future date"
+  },
+  "termId103": {
+    "term": "Futures (futures contract)",
+    "mean": "a contract for the purchase or sale of goods with delivery on a future date"
+  },
+  "termId104": {
+    "term": "Securities",
+    "mean": "are financial assets that include shares, government securities, bonds, debt obligations, certificates of mutual trusts, and certificates of ownership of borrowed or deposited funds"
+  },
+  "termId105": {
+    "term": "Issue (процедура issue procedure) бумаг",
+    "mean": "of securities - the sequence of actions of the issuer for the issue and placement of securities established by the Law \"On the Securities Market\""
+  },
+  "termId106": {
+    "term": "Issuer (borrower)",
+    "mean": "a legal entity or executive authorities or local self-government bodies that bear obligations on their own behalf to the owners of securities to exercise the rights assigned to them"
+  },
+  "termId107": {
+    "term": "Shareholder",
+    "mean": "an individual or legal entity listed in the issuer's accounting records as a registered holder (not necessarily a real owner) of the issuer's securities"
+  },
+  "termId108": {
+    "term": "Share capital",
+    "mean": "the company's own capital"
+  },
+  "termId109": {
+    "term": "Auditor",
+    "mean": "a person who holds a state license for the right to conduct an audit"
+  },
+  "termId110": {
+    "term": "Auditor of the company",
+    "mean": "an auditor responsible for conducting an audit of the company's financial statements"
+  },
+  "termId111": {
+    "term": "Audit, audit",
+    "mean": "examination and verification of the company's financial and accounting records by a professional and independent auditor of the company"
+  },
+  "termId112": {
+    "term": "Affiliated person",
+    "mean": "an individual or legal entity that may influence the activities of legal entities and (or) individuals engaged in entrepreneurial activities"
+  },
+  "termId113": {
+    "term": "Book value",
+    "mean": "the value of the company or any asset reflected in the accounting documents. The book value does not always correspond to the market value of the asset or company"
+  },
+  "termId114": {
+    "term": "Listed (quoted)",
+    "mean": "listed on the stock exchange"
+  },
+  "termId115": {
+    "term": "Extraordinary General Meeting of Shareholders",
+    "mean": "any general meeting of shareholders other than the annual general meeting"
+  },
+  "termId116": {
+    "term": "External Director",
+    "mean": "a member of the Board of Directors who is not an employee of the company"
+  },
+  "termId117": {
+    "term": "Internal audit",
+    "mean": "assessment of the financial feasibility of the company's operations by its employees. Employees who perform this function are called internal auditors"
+  },
+  "termId118": {
+    "term": "Beneficiary",
+    "mean": "a natural or legal person who receives or may receive the right to receive benefits under a will, insurance policy, pension plan, rent agreement, property trust management agreement (trust agreement) or other agreement"
+  },
+  "termId119": {
+    "term": "Separation",
+    "mean": "creation of an independent company from a part of another company in the process of asset disposal"
+  },
+  "termId120": {
+    "term": "Issue of securities",
+    "mean": "a set of securities of the company that grants their holders the same rights"
+  },
+  "termId121": {
+    "term": "Issued and outstanding shares",
+    "mean": "shares that represent the invested capital of the company's shareholders. Shares that were issued and subsequently repurchased by the company are referred to as treasury shares because they are held on the company's balance sheet until they are re-issued or redeemed Treasury shares are issued but are not considered outstanding for voting purposes, for calculating dividends, or for calculating earnings per share"
+  },
+  "termId122": {
+    "term": "Annual General Meeting of Shareholders",
+    "mean": "a general meeting of shareholders that is held not earlier than 2 months and not later than 6 months after the end of each reporting year, and at which shareholders and management discuss the results and future of the company"
+  },
+  "termId123": {
+    "term": "Annual report",
+    "mean": "a document that must be provided to the company's shareholders and other interested parties during the annual General meeting of Shareholders. As a rule, it includes the balance sheet, the profit and loss statement, notes to the financial statements, the auditor's and audit commission's conclusions, a statement of management's opinion on the company's performance, as well as comments on corporate governance issues and the company's development prospects"
+  },
+  "termId124": {
+    "term": "Voting shares",
+    "mean": "ordinary shares, as well as preferred shares, if they are granted the right to participate in voting on all items on the agenda (in case of incomplete payment of dividends) or on its individual items (for example, on the issue of reorganization)"
+  },
+  "termId125": {
+    "term": "Public authorities",
+    "mean": "in the context of this course public administration bodies"
+  },
+  "termId126": {
+    "term": "Closing date of the register",
+    "mean": "the date set by the company and as of which a person must own shares in order to receive the right to vote at the general meeting or the right to receive dividends"
+  },
+  "termId127": {
+    "term": "Legal capacity",
+    "mean": "the ability of a citizen to acquire and exercise civil rights by his actions, to create and fulfill civil duties for himself"
+  },
+  "termId128": {
+    "term": "Dividends",
+    "mean": "are a part of the company's net profit distributed among shareholders"
+  },
+  "termId129": {
+    "term": "Директор",
+    "mean": "Managing director, head of a company or enterprise. Director is the highest position in an enterprise that is empowered to choose the company's development strategy, work with human resources, and debug the company's financial flows. However, under a number of conditions in some organizations, the position of director may be formal or non-existent"
+  },
+  "termId130": {
+    "term": "Subsidiary company",
+    "mean": "a company owned or controlled by the parent (main) company"
+  },
+  "termId131": {
+    "term": "Closed joint-stock",
+    "mean": "company a company whose shares are distributed among the founders or other pre-determined circle of persons"
+  },
+  "termId132": {
+    "term": "Absentee voting",
+    "mean": "means the opportunity to participate in the general meeting of shareholders or a meeting of the collective management body by sending a written document with the voting results"
+  },
+  "termId133": {
+    "term": "Golden share",
+    "mean": "is a special right of the state to participate in the management of the company"
+  },
+  "termId134": {
+    "term": "Insider",
+    "mean": "a person who has access to material information about the company prior to its public disclosure"
+  },
+  "termId135": {
+    "term": "Insider information",
+    "mean": "material information about the company that is known to insiders (as a rule, members of the board of directors, management and / or employees of the company), but is not publicly available"
+  },
+  "termId136": {
+    "term": "Insider trading",
+    "mean": "making transactions by insiders based on insider information"
+  },
+  "termId137": {
+    "term": "Executive Director",
+    "mean": "a member of the Company's Board of Directors who is an employee of the company"
+  },
+  "termId138": {
+    "term": "Executive Body",
+    "mean": "the Company's executive bodies include the General Director and the Management Board"
+  },
+  "termId139": {
+    "term": "Qualified majority",
+    "mean": "the number of votes required to make a decision for which a simple majority is not sufficient, usually 2/3 or 3/4"
+  },
+  "termId140": {
+    "term": "Quorum",
+    "mean": "the minimum number of votes of shareholders or directors whose presence is required at the meeting in order for the voting results to be valid in accordance with the law"
+  },
+  "termId141": {
+    "term": "Audit Committee",
+    "mean": "a committee of the Board of Directors responsible for overseeing the company's financial reporting, risk management, and internal audit processes"
+  },
+  "termId142": {
+    "term": "Compensation",
+    "mean": "reimbursement of expenses incurred in the course of performing official duties. Unlike remuneration, it does not include labor remuneration, bonuses, incentives, or other payments"
+  },
+  "termId143": {
+    "term": "Convertible security",
+    "mean": "a bond or preferred share that can be exchanged at the discretion of its holder for an ordinary share (or for a preferred share of another type) of the issuer"
+  },
+  "termId144": {
+    "term": "Controlling shareholder",
+    "mean": "a shareholder who, either by himself or jointly with affiliated persons, actually controls the decision-making process in the company"
+  },
+  "termId145": {
+    "term": "The Control and Audit Service",
+    "mean": "is an internal division of the company responsible for performing ongoing internal control in accordance with the recommendations of the Corporate Conduct Code"
+  },
+  "termId146": {
+    "term": "A conflict of interest",
+    "mean": "is a situation that occurs when a trusted person needs to make a judgment on behalf of others, but has an interest that may prevent such a judgment from being made"
+  },
+  "termId147": {
+    "term": "Corporate governance",
+    "mean": "structures and procedures of management and control in the company"
+  },
+  "termId148": {
+    "term": "A major transaction",
+    "mean": "is the sale of assets or a significant part of the company or the acquisition of assets, as well as a loan, loan, guarantee and pledge, which requires the approval of shareholders or the board of directors"
+  },
+  "termId149": {
+    "term": "Major (majority) shareholder",
+    "mean": "a shareholder who exercises significant control over the company by himself or jointly with affiliated persons"
+  },
+  "termId150": {
+    "term": "Cumulative voting",
+    "mean": "is a method of voting in which each shareholder entitled to participate in voting on the election of members of the Board of directors has the right to cast a number of votes equal to the number of voting shares belonging to him, multiplied by the number of elected members of the board of directors, while the shareholder can cast all his votes in favor of how to distribute them among the candidates"
+  },
+  "termId151": {
+    "term": "Liquidation",
+    "mean": "sale of all assets of the company, payment of debts and distribution of the remaining property among shareholders with subsequent termination of the company's activities"
+  },
+  "termId152": {
+    "term": "International Financial Reporting Standards (IFRS)",
+    "mean": "Accounting and reporting standards adopted by the International Accounting Standards Board (IASB)"
+  },
+  "termId153": {
+    "term": "Management",
+    "mean": "a group of persons that performs the current management of the company"
+  },
+  "termId154": {
+    "term": "Minority shareholder",
+    "mean": "a shareholder who owns a number of shares that is insufficient to exercise control over the company's activities"
+  },
+  "termId155": {
+    "term": "The Supervisory Board",
+    "mean": "is a part of a two-tier structure in which the Supervisory Board provides strategic management of the company and exercises control over the activities of its executive bodies. In a single-level structure, the Board of Directors corresponds to the Supervisory board"
+  },
+  "termId156": {
+    "term": "Independence",
+    "mean": "freedom from the control and influence of others. The concept of independence is used in various contexts throughout this course: 1) in relation to members of the board of directors; 2) in relation to the independent auditor or the company's auditor; 3) in relation to the internal auditor; 4) in relation to an independent appraiser"
+  },
+  "termId157": {
+    "term": "Non-executive Director",
+    "mean": "a member of the company's Board of Directors who is not a manager (employee) of the company"
+  },
+  "termId158": {
+    "term": "Non-standard operation",
+    "mean": "an operation that goes beyond the scope of the company's financial and economic plan"
+  },
+  "termId159": {
+    "term": "A bond",
+    "mean": "is a corporate debt security under which the issuer undertakes to pay its holder certain amounts, usually at fixed intervals, and to repay the principal debt upon maturity"
+  },
+  "termId160": {
+    "term": "The General Meeting of Shareholders",
+    "mean": "is the highest management body of the company"
+  },
+  "termId161": {
+    "term": "Society (joint-stock company, limited liability",
+    "mean": "company a legal entity whose authorized capital is divided into a certain number of shares, stakes"
+  },
+  "termId162": {
+    "term": "Declared dividends",
+    "mean": "the amount of dividends declared for payment by the general Meeting of Shareholders"
+  },
+  "termId163": {
+    "term": "Ordinary share",
+    "mean": "a share that grants its holder certain property rights and voting rights"
+  },
+  "termId164": {
+    "term": "Management bodies",
+    "mean": "the company's management bodies. These include the General Meeting of Shareholders, the Board of Directors, the CEO, and the Management Board"
+  },
+  "termId165": {
+    "term": "Take over",
+    "mean": "acquisition of control over a company through the purchase or exchange of shares. The takeover may be hostile or friendly"
+  },
+  "termId166": {
+    "term": "Accountability",
+    "mean": "is the responsibility of management and the board of Directors to shareholders and other stakeholders for the company's actions and performance"
+  },
+  "termId167": {
+    "term": "Subscription",
+    "mean": "an agreement to purchase newly issued securities"
+  },
+  "termId168": {
+    "term": "Listing rules (for inclusion in quotation lists)",
+    "mean": "conditions established by the stock exchange in relation to the listing of the company's securities. Listing requirements include certain requirements for corporate governance in the company"
+  },
+  "termId169": {
+    "term": "The Management Board",
+    "mean": "is a collective executive body responsible for the day-to-day management of the company's activities. The Management Board is accountable to the Board of Directors"
+  },
+  "termId170": {
+    "term": "Preferred share",
+    "mean": "a non-voting share that grants its holder the right to receive a certain dividend and liquidation value paid before the payment of dividends to the holders of ordinary shares"
+  },
+  "termId171": {
+    "term": "Capital gain",
+    "mean": "an increase in the market price of an asset (for example, shares)"
+  },
+  "termId172": {
+    "term": "Simple majority of votes",
+    "mean": "more than 50% of votes"
+  },
+  "termId173": {
+    "term": "Disclosure of information",
+    "mean": "publication of relevant information"
+  },
+  "termId174": {
+    "term": "The real owner",
+    "mean": "is a person who benefits from the ownership of a security or property, regardless of the name in which such security or property is registered"
+  },
+  "termId175": {
+    "term": "The Audit Commission",
+    "mean": "is a special body of the company elected by shareholders to exercise control over the financial and economic activities of the company and compliance with the requirements of the legislation"
+  },
+  "termId176": {
+    "term": "Registrar",
+    "mean": "an organization that maintains a register of shareholders. The register contains information about shareholders and the number of shares they own"
+  },
+  "termId177": {
+    "term": "Register of Shareholders",
+    "mean": "a register that is used for recording ownership rights to shares and determining the list of shareholders as of the closing date of the register. The register of shareholders is usually maintained by an independent organization, as this avoids conflicts of interest"
+  },
+  "termId178": {
+    "term": "Reserve fund",
+    "mean": "a part of the company's own capital allocated to a separate fund. It can be used to cover the company's losses, repurchase shares and bonds in the absence of other funds"
+  },
+  "termId179": {
+    "term": "Market value",
+    "mean": "the price that an informed buyer is willing to pay and an informed seller is willing to accept in a free market, provided that the transaction is completed within a reasonable time frame"
+  },
+  "termId180": {
+    "term": "Acquisition of control",
+    "mean": "a transaction that results in the establishment or transfer of control over the company to another person"
+  },
+  "termId181": {
+    "term": "Interested party transaction",
+    "mean": "a transaction in which members of the management bodies or other persons have an interest and which must be approved by the General Meeting of Shareholders or the Board of Directors in accordance with the requirements of the law"
+  },
+  "termId182": {
+    "term": "The Board of Directors",
+    "mean": "is the company's management body responsible for strategic management and control over the activities of executive bodies on behalf of shareholders. The Board of Directors in a single-level system corresponds to the supervisory board in a two-level management system of the company"
+  },
+  "termId183": {
+    "term": "Losses",
+    "mean": "expenses that a person whose right is violated has made or will have to make to restore the violated right, damage as a result of loss or damage to the property of such a person (real damage), as well as lost income that such a person would have received under normal conditions of civil turnover if his right had not been violated (lost profit).benefit)"
+  },
+  "termId184": {
+    "term": "Damage",
+    "mean": "expenses that a person whose right is violated has made or will have to make for the restoration of the violated right, loss or damage to the property of such person"
+  },
+  "termId185": {
+    "term": "Issue",
+    "mean": "actions provided for by law for the placement of securities"
+  },
+  "termId186": {
+    "term": "Issuer",
+    "mean": "the company that issued the securities"
+  }
+}

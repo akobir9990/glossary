@@ -1,7 +1,7 @@
-import React from "react";
+import { Container } from "@mui/material";
 import Appbar from "./components/appbar/Appbar";
-import { Container } from "react-smooth-dnd";
 import Router from "./router/Router";
+
 function App() {
   document.addEventListener("contextmenu", (event) => event.preventDefault());
   document.onkeydown = function (e) {
@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="relative">
       <Appbar />
-      <Container>
+      <Container className="pt-[70px]">
         <Router />
       </Container>
     </div>

@@ -11,10 +11,16 @@ import { appbarAuthMenu } from "./const";
 import { NavLink } from "react-router-dom";
 import { HOME_PAGE } from "../../router/const";
 import logoRu from "../../assets/glossaries.png";
+import { useTranslation } from "react-i18next";
 
 export default function MenuAppBar() {
   const [auth, setAuth] = React.useState(true);
   const [anchorEl, setAnchorEl] = React.useState(null);
+  const { t, i18n } = useTranslation();
+
+  const handleChangeLang = (lang) => {
+    i18n.changeLanguage(lang);
+  };
 
   const handleMenu = (event) => {
     setAnchorEl(event.currentTarget);
@@ -29,6 +35,7 @@ export default function MenuAppBar() {
       sx={{
         flexGrow: 1,
       }}
+      className="fixed w-[100%]"
     >
       <AppBar position="static">
         <Toolbar>
@@ -54,7 +61,7 @@ export default function MenuAppBar() {
               fontWeight: "semibold",
             }}
           >
-            Глоссарии
+            {t("title")}
           </Typography>
           {auth && (
             <div>
@@ -86,10 +93,34 @@ export default function MenuAppBar() {
                 {appbarAuthMenu.map((item) => {
                   return (
                     <NavLink to={item.navLink} key={item.id}>
-                      <MenuItem>{item.title}</MenuItem>
+                      <MenuItem>{t(item.title)}</MenuItem>
                     </NavLink>
                   );
                 })}
+                <div className="px-4 py-[6px] flex gap-2">
+                  <button
+                    onClick={() => handleChangeLang("en")}
+                    className={`shadow-sm px-4 py-[6px] text-[grey] hover:border-[teal] hover:text-[teal] transition-all rounded-md
+                      ${
+                        i18n.language === "en"
+                          ? "border border-primaryColor text-primaryColor shadow-sm shadow-primaryColor"
+                          : ""
+                      }`}
+                  >
+                    En
+                  </button>
+                  <button
+                    onClick={() => handleChangeLang("ru")}
+                    className={`shadow-sm px-4 py-[6px] text-[grey] hover:border-[teal] hover:text-[teal] transition-all rounded-md
+                    ${
+                      i18n.language === "ru"
+                        ? "border border-primaryColor text-primaryColor shadow-sm shadow-primaryColor"
+                        : ""
+                    }`}
+                  >
+                    Ru
+                  </button>
+                </div>
               </Menu>
             </div>
           )}
